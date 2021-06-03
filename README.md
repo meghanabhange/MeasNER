@@ -13,5 +13,5 @@ Trained using spaCy-v3 and can be used directly as a package.
 
 ### Installation 
 ```
-pip install XXXXX
+pip install https://github.com/meghanabhange/MeasNER/releases/download/0.1/en_measner-0.1.1.tar.gz
 ```
