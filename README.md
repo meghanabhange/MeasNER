@@ -1,6 +1,6 @@
 # MeasNER : Bio NER for Counts and Measurements
 
-### Disclaimer : Work in progress, not yet stable
+### Disclaimer : Work in progress, doesn't give the best accuracy yet.
 
 ![image](https://user-images.githubusercontent.com/34004739/120615321-c75e5d00-c475-11eb-9747-2bec7e2d849d.png)
 
