@@ -1,4 +1,5 @@
 # MeasNER : Bio NER for Counts and Measurements
+[![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 
 ### Disclaimer : Work in progress, doesn't give the best accuracy yet.
 
